@@ -1,21 +1,20 @@
 
 <!-- SEO METADATA - HIDDEN FOR CRAWLERS AND SEARCH ENGINES --><!-- KEYWORDS: Ali Raza, ALI-RAZA-MUHAMMAD-IQBAL, Software Engineer, Backend Developer, Java Developer, Spring Boot Developer, REST API, Microservices, Java Backend Engineer, Pakistan Developer, SQL, MySQL, PHP, Systems Architecture, Clean Code, OOP, DSA, Systems Design, Full Stack Developer, Enterprise Software --><!-- DESCRIPTION: Professional GitHub Portfolio of Ali Raza - Software Engineer specializing in Java, Spring Boot, REST APIs, and scalable backend infrastructure. -->
-# 🚀 Hi there, I'm Ali Raza! <samp>
+#  Hi there, I'm Ali Raza! <samp>
   <b>Software Engineer</b> | <b>Java Developer</b> | <b>Backend Systems Architect</b></samp>
 
 I am a driven **Software Engineer** specializing in the design, development, and optimization of highly scalable, resilient server-side applications. Leveraging a deep mastery of **Java**, **Spring Boot**, and **RESTful API Architecture**, I build secure, high-performance distributed systems engineered to handle heavy operational workloads.
 
 In addition to engineering enterprise software solutions, my background as a **Computer Science Lecturer** underscores my strong technical foundation in **Object-Oriented Programming (OOP)**, **Data Structures & Algorithms (DSA)**, and **Database Management Systems**.
----## 🛠️ Technical Ecosystem & Stack
-
-## ===================================================================================
+---
+### 🛠️ Technical Ecosystem & Stack
 BACKEND │ Core Java (OOP, Collections, Streams, Multithreading) • PHP NATIVE
 FRAMEWORKS │ Spring Boot • Spring Core • Spring Data JPA • Hibernate • JDBC
 ARCHITECTURE │ RESTful APIs • Microservices • System Design • Client-Server Flow
 DATABASES │ MySQL (Schema Design, Complex Queries, Stored Procedures) • Firebase
 FRONTEND │ HTML5 • CSS3 • JavaScript (JS)
 
-
+---
 ### 🧠 Core Architectural Competencies
 * **System Scalability:** Mitigating performance bottlenecks via query optimization, efficient database schema design, and resource-conscious backend logic.
 * **Full-Lifecycle Engineering:** Driving projects smoothly across the complete **Software Development Life Cycle (SDLC)**—from conceptual database modeling to final system deployment.
@@ -38,7 +37,7 @@ FRONTEND │ HTML5 • CSS3 • JavaScript (JS)
 
 ---
 
-## 🤝 Connect & Collaborate
+## Connect & Collaborate
 
 If you are looking for a rigorous **Backend Engineer** to build dependable server-side platforms, optimize database execution architectures, or collaborate on open-source initiatives, let's get in touch:
 
