@@ -34,5 +34,3 @@ Alongside engineering enterprise solutions, I have served as a Computer Science 
 * 📧 Email: Mr_Ali_Raza@yahoo.com
 
 ------------------------------
- profile, or generate a custom visual banner for the top of this README?
-
