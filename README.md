@@ -26,9 +26,9 @@ FRONTEND │ HTML5 • CSS3 • JavaScript (JS)
 
 If you are looking for a rigorous **Backend Engineer** to build dependable server-side platforms, optimize database execution architectures, or collaborate on open-source initiatives, let's get in touch:
 
-* 💼 **Professional Network:** [://linkedin.com](https://www.://linkedin.com/)
-* 🌐 **Interactive Portfolio:** [ali-raza-muhammad-iqbal.github.io/portfolio](https://github.io)
-* 📧 **Direct Inbox:** [Mr_Ali_Raza@yahoo.com](mailto:Mr_Ali_Raza@yahoo.com)
+* 💼 **Professional Network:** [LinkedIn](https://www.://linkedin.com/ali-raza-software-engineer1)
+* 🌐 **Interactive Portfolio:** [Portfolio](https://Ali-Raza-Muhammad-Iqbal.github.io/portfolio)
+* 📧 **Direct Inbox:** [Mail](mailto:Mr_Ali_Raza@yahoo.com)
 
 ---
 
